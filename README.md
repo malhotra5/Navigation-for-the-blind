@@ -8,8 +8,8 @@ Both the python files have to be ran simultaneously. The detection.py file will 
 * Numpy (support for large multi-dimensional arrays and matrices)
 * Math
 * Time
-* Scipy 
-* pyttsx3
+* Scipy (polynomial regression)
+* pyttsx3 (text to speech)
 ### Installation
 All the wheel files for python 3 can be downloaded from https://www.lfd.uci.edu/~gohlke/pythonlibs/
 To install, run
@@ -21,4 +21,5 @@ Alternative -
     pip install opencv-python
     pip install numpy
     pip install pyttsx3
-    
+## Running the algorithm
+Both the files detection.py and out.py have to be run simultaneously.
