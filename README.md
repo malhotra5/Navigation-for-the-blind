@@ -46,7 +46,7 @@ Final results - \
 ![GitHub Logo](/Results/detections.jpg)
 
 ## Built with
-* Python
+* Python3
 ## Acknowledgments
 All my team members for the hackathon in which this project was built.
 
