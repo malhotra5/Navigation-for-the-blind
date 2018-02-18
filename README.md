@@ -27,16 +27,16 @@ Both the files detection.py and out.py have to be run simultaneously.
 The algorithm uses the results from hough lines probabilistic (an opencv algorithm) and creates 2 linear lines to outline driving lanes. Experiments suggests that the 2 linear lines will intersect if the driving lanes curve or turn. \
 
 Perform edge detection over the frames from challenge.mp4 \
-![GitHub Logo](/Results/edge detection.jpg)
+![GitHub Logo](/Results/edgeDetection.jpg)
 
 Cut out reigon of interest. \
 ![GitHub Logo](/Results/ROI.jpg)
 
 Perform hough lines probabilistic over ROI frames. \
-![GitHub Logo](/Results/hough lines.jpg)
+![GitHub Logo](/Results/houghLines.jpg)
 
 Average out 2 linear lines using the results from hough lines probabilistic. \
-![GitHub Logo](/Results/linear lines.jpg)
+![GitHub Logo](/Results/linearLines.jpg)
 
 Perform quadratic regression on hough line results to outline the lanes. \
 ![GitHub Logo](/Results/polyReg.jpg)
