@@ -21,6 +21,7 @@ Alternative -
     pip install opencv-python
     pip install numpy
     pip install pyttsx3
+    pip install scipy
 ## Running the algorithm
 Both the files detection.py and out.py have to be run simultaneously.
 ## How it works
@@ -44,9 +45,10 @@ Perform quadratic regression on hough line results to outline the lanes. \
 Final results - \
 ![GitHub Logo](/Results/detections.jpg)
 
-
-
-
+## Built with
+* Python
+## Acknowledgments
+All my team members for the hackathon in which this project was built.
 
 
 
