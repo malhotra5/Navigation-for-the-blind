@@ -47,8 +47,7 @@ Final results - \
 
 ## Built with
 * Python3
-## Acknowledgments
-All my team members for the hackathon in which this project was built.
+* A ton of pizza at a hackathon ;)
 
 
 
